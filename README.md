@@ -1,4 +1,4 @@
-# GCP Edge-to-Mesh Architecture 🌐🛡️
+# GCP Edge-to-Mesh Architecture 
 
 A secure, end-to-end routing architecture built and deployed entirely on Google Cloud Platform (GCP).
 
