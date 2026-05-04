@@ -80,7 +80,7 @@ chmod +x cleanup.sh
 
 ```text
 .
-├── deploy_v3.sh     # Master deployment script (IaC)
+├── deploy.sh     # Master deployment script (IaC)
 ├── cleanup.sh       # Master teardown script
 └── README.md        # Project documentation
 ```
