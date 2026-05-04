@@ -44,7 +44,7 @@ The compute layer hosting the Istio Ingress Gateway and the sample microservices
 #### 1) Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/gcp-edge-to-mesh.git
+git clone https://github.com/cloudrockpl/gcp-edge-to-mesh.git
 cd gcp-edge-to-mesh
 ```
 
@@ -57,8 +57,8 @@ gcloud config set project YOUR_PROJECT_ID
 #### 3) Make the deployment script executable and run it
 
 ```bash
-chmod +x deploy_v3.sh
-./deploy_v3.sh YOUR_PROJECT_ID YOUR_APP_NAME
+chmod +x deploy.sh
+./deploy.sh YOUR_PROJECT_ID YOUR_APP_NAME
 ```
 
 ## Once completed, the script will output the live public URL for your application. Wait an additional 10-15 minutes for the global SSL certificates to propagate, then click it to view the app!
