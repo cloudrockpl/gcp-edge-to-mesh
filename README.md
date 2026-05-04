@@ -8,7 +8,8 @@ This project demonstrates a modern networking stack connecting global external t
 
 ## Architecture
 
-[![image](http://googleusercontent.com/image_generation_content/4)](http://googleusercontent.com/image_generation_content/4)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/35c3145c-7a4d-46bc-9010-6222bfa2c3c9" />
+
 
 ---
 
